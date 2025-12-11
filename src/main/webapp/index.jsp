@@ -127,6 +127,8 @@
 
 <!-- HERO -->
 <div class="hero">
+    <h1>miniflix</h1>
+    <p>Watch the latest blockbuster hit, now streaming exclusively.</p>
     <h1>Netflix Movie</h1>
     <p>Watch the latest Netflix movies over here.</p>
     <button>Play</button>
